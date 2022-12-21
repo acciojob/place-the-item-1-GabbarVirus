@@ -1,7 +1,4 @@
-*{
-    
-  margin: 0;
- }
+
  .holder{
      display: flex;
      justify-content: space-between; 
